@@ -1,1 +1,1 @@
-# Explanatory-Data-Analysis
+It is a good practice to understand the data first and try to gather as many insights from it as possible. EDA is all about making sense of data in hand,before getting your hands dirty with it. It will give you better understanding of what columns are important & what columns are depending on another, You will get to know about Null values, Outliars, How many Numerical & Categorical Columns, Which Encoding is required, which ML Algo should Apply. It will give you complete analysis of your data & Give you a proper road map of what to do next.
